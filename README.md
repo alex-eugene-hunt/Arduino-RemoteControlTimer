@@ -2,6 +2,8 @@
 
 A sophisticated Arduino-based timer system with RGB LED feedback, LCD display, and musical alarm capabilities, controlled via an IR remote. This project demonstrates practical implementation of embedded systems programming, real-time operations, and hardware integration.
 
+![Screenshot 2025-02-27 141418](https://github.com/user-attachments/assets/dd2f44c0-b856-4260-9968-f55b7864070e)
+
 ## Technical Overview
 
 ### Core Components
